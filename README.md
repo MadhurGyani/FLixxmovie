@@ -1,4 +1,4 @@
 # Flixxmovie
 
 visit live site on
-flixxmovies.netlify.app
+@flixxmovies.netlify.app
